@@ -8,4 +8,4 @@ spec:
     - port: {{ .Values.service.port }}
       targetPort: 5052
   selector:
-    app: chat-service
+  {{- include "user-service.labels" . | nindent  4}}
