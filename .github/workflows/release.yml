@@ -42,5 +42,6 @@ jobs:
           access-token: ${{ github.token }}
           force: true
           chart-folder: "./"
+          update-dependencies: true
       
           
