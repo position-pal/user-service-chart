@@ -46,6 +46,7 @@ jobs:
           username: ${{ secrets.USERNAME }}
           access-token: ${{ github.token }}
           force: true
+          chart-folder: "./"
           update-dependencies: true
       
           
