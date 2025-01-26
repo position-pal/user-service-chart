@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-user-service
+labels:
+  {{- include "user-service.labels" . | nindent 4 }}
+spec:
+  replicas: {{ .Values.replicaCount }}
+  selector:
+    matchLabels:
+    {{- include "user-service.labels" . | nindent 6 }}
+  template:
+    metadata:
+      labels:
+      {{- include "user-service.labels" . | nindent 8 }}
+    spec:
+      {{- include "postgresql.waitForDatabase" . | nindent 6 }}
+      containers:
+        - name: user-service
+          image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+          ports:
+            - containerPort: 5052
+          env:
+            {{- include "user-service.env" . | nindent 12 }}
+            
