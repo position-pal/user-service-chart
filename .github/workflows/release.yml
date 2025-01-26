@@ -33,6 +33,11 @@ jobs:
           npm install
           npx semantic-release
       
+      - name: Create charts folder
+        run: |
+          mkdir charts
+          chmod 755 charts
+
       - name: Push Helm chart to OCI compatible registry (Github)
         uses: bsord/helm-push@v4.1.0
         with:
