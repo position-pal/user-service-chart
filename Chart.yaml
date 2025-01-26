@@ -4,5 +4,9 @@ description: Helm chart for the Position PAL User Service
 type: application
 version: 0.1.0
 
-
+dependencies:
+  - name: postgresql
+    version: "16.3.2"  
+    repository: "https://charts.bitnami.com/bitnami"
+    condition: postgresql.enabled
 
