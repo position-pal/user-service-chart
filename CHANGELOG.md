@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/position-pal/user-service-chart/compare/1.0.0...1.0.1) (2025-01-27)
+
+### Documentation
+
+* adding NOTES.txt to the helm chart ([bf47097](https://github.com/position-pal/user-service-chart/commit/bf47097994800c8dd30f0c512ddb5d446c080258))
+
 ## 1.0.0 (2025-01-26)
 
 ### Features
