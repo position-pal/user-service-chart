@@ -18,7 +18,7 @@ service:
 # Configure the connection information for the rabbtimq service
 rabbitmq:
   username: user
-  password: cEjw24s0dY9CbPZA
+  password: XkdcPscPihKNZDYQ
   namespace: rabbitmq
   serviceName: rabbitmq
   port: 5672
