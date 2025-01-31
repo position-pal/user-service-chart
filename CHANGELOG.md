@@ -1,3 +1,13 @@
+## [1.1.0](https://github.com/position-pal/user-service-chart/compare/1.0.1...1.1.0) (2025-01-31)
+
+### Features
+
+* adding service's secrets ([ad1e0b6](https://github.com/position-pal/user-service-chart/commit/ad1e0b6d51d5a1fdf905ef3aa9813d2af22a3783))
+
+### Bug Fixes
+
+* change naming on service ([b387756](https://github.com/position-pal/user-service-chart/commit/b387756689fdd274db7ced8f169c6290c9840aa1))
+
 ## [1.0.1](https://github.com/position-pal/user-service-chart/compare/1.0.0...1.0.1) (2025-01-27)
 
 ### Documentation
