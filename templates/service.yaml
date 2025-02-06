@@ -2,6 +2,9 @@ apiVersion: v1
 kind: Service
 metadata:
   name: {{ .Release.Name }}-user-service
+  namespace: {{ .Release.Namespace }}
+  labels:
+    {{- include "user-service.labels" . | nindent 4 }}
 spec:
   type: {{ .Values.service.type }}
   ports:
