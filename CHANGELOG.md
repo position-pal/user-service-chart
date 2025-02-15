@@ -1,3 +1,16 @@
+## [1.3.0](https://github.com/position-pal/user-service-chart/compare/1.2.0...1.3.0) (2025-02-15)
+
+### Dependency updates
+
+* **api-deps:** update positionpal/user-service docker tag to v1.3.3 ([#6](https://github.com/position-pal/user-service-chart/issues/6)) ([3715b54](https://github.com/position-pal/user-service-chart/commit/3715b541806e52975d3d5bd51a4118e0b4d60a5a))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.123 ([#4](https://github.com/position-pal/user-service-chart/issues/4)) ([3401844](https://github.com/position-pal/user-service-chart/commit/3401844ecf15b0caa21eab8de85919d254eb37dd))
+* **deps:** update helm release postgresql to v16.3.5 ([#5](https://github.com/position-pal/user-service-chart/issues/5)) ([0b5761c](https://github.com/position-pal/user-service-chart/commit/0b5761c6002d8450f75b805823a4cf5c732c68d6))
+* **deps:** update node.js to 22.14 ([#8](https://github.com/position-pal/user-service-chart/issues/8)) ([d676eec](https://github.com/position-pal/user-service-chart/commit/d676eecb0118d3df9e83cae9526eee248d3c0f55))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.2.0 ([#9](https://github.com/position-pal/user-service-chart/issues/9)) ([e800ce5](https://github.com/position-pal/user-service-chart/commit/e800ce5e1906be49ab4b28720781886913c637b8))
+
 ## [1.2.0](https://github.com/position-pal/user-service-chart/compare/1.1.0...1.2.0) (2025-02-15)
 
 ### Dependency updates
