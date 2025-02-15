@@ -5,7 +5,7 @@ replicaCount: 1
 # Base informations for the service image
 image:
   repository: positionpal/user-service
-  tag: 1.2.1@sha256:ee771e8e8eaab588e6fb02d2524d281f9ed9b80a76bf2866b358f002677a2b30
+  tag: 1.2.3@sha256:cc744635808f5078753cf0cdbda9bb5dcc87986d63eb1e06f57cd2169c20d444
   pullPolicy: IfNotPresent
 
 jwtSecret: "abc"
