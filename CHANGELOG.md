@@ -1,3 +1,20 @@
+## [1.2.0](https://github.com/position-pal/user-service-chart/compare/1.1.0...1.2.0) (2025-02-15)
+
+### Dependency updates
+
+* **api-deps:** update positionpal/user-service docker tag to v1.2.3 ([#3](https://github.com/position-pal/user-service-chart/issues/3)) ([c69c57d](https://github.com/position-pal/user-service-chart/commit/c69c57dae10a855ea9abd3920edfd1773141282f))
+
+### Build and continuous integration
+
+* **deps:** add renovate.json file ([c8ca8d7](https://github.com/position-pal/user-service-chart/commit/c8ca8d7d0d5cd3712e6cfde0710a43cf070d21a5))
+* **deps:** pin dependencies ([#2](https://github.com/position-pal/user-service-chart/issues/2)) ([80cf1bf](https://github.com/position-pal/user-service-chart/commit/80cf1bfb5a27acd56a17db074440314c72ede9ce))
+* update release workflow file ([fff2a58](https://github.com/position-pal/user-service-chart/commit/fff2a58ba370556b6cda5be57e51fa7ff3ae63bc))
+
+### Refactoring
+
+* edit service structure ([bd85cf0](https://github.com/position-pal/user-service-chart/commit/bd85cf098fc7e490073bc067da8f357459681f72))
+* update name for service ([3565635](https://github.com/position-pal/user-service-chart/commit/3565635f93abc083c01f766dffcd1defddf4a2e7))
+
 ## [1.1.0](https://github.com/position-pal/user-service-chart/compare/1.0.1...1.1.0) (2025-01-31)
 
 ### Features
