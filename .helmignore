@@ -37,3 +37,6 @@ yarn.lock
 
 # Semantic Relase files
 release.config.js
+
+#Override files
+./override/

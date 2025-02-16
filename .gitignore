@@ -84,3 +84,6 @@ coverage/
 
 # Local Development
 .local/
+
+#Override files
+./override/
