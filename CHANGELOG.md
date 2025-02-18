@@ -1,3 +1,13 @@
+## [1.5.0](https://github.com/position-pal/user-service-chart/compare/1.4.0...1.5.0) (2025-02-18)
+
+### Dependency updates
+
+* **api-deps:** update positionpal/user-service docker tag to v1.4.1 ([#13](https://github.com/position-pal/user-service-chart/issues/13)) ([251179d](https://github.com/position-pal/user-service-chart/commit/251179d77c71fd1ee1b7a7c24e973c359f14f24d))
+
+### Build and continuous integration
+
+* **deps:** update azure/setup-helm action to v4.3.0 ([#14](https://github.com/position-pal/user-service-chart/issues/14)) ([d4aa66e](https://github.com/position-pal/user-service-chart/commit/d4aa66ec7d979deb63c8d689e292c0e0076178f1))
+
 ## [1.4.0](https://github.com/position-pal/user-service-chart/compare/1.3.0...1.4.0) (2025-02-17)
 
 ### Dependency updates
