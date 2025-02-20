@@ -1,3 +1,10 @@
+## [1.7.0](https://github.com/position-pal/user-service-chart/compare/1.6.0...1.7.0) (2025-02-20)
+
+### Dependency updates
+
+* **api-deps:** update positionpal/user-service docker tag to v1.4.2 ([#15](https://github.com/position-pal/user-service-chart/issues/15)) ([1953218](https://github.com/position-pal/user-service-chart/commit/195321857ecf60ab856872048abb9235a3e87893))
+* **deps:** update helm release postgresql to v16.4.11 ([#16](https://github.com/position-pal/user-service-chart/issues/16)) ([60e17ac](https://github.com/position-pal/user-service-chart/commit/60e17ac8958d6a66b065ac72061e420f3b419687))
+
 ## [1.6.0](https://github.com/position-pal/user-service-chart/compare/1.5.0...1.6.0) (2025-02-20)
 
 ### Features
