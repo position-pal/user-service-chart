@@ -2,6 +2,9 @@
 # Control the number of replicas for the chat-service
 replicaCount: 1
 
+# Name of the service
+serviceName: "user-service"
+
 # Base informations for the service image
 image:
   repository: positionpal/user-service

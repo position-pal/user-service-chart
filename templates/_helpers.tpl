@@ -35,6 +35,8 @@ release: {{ .Release.Name }}
 {{- define "user-service.env" -}}
 - name: POSTGRES_USER
   value: {{ .Values.postgresql.global.postgresql.auth.username | quote }}
+- name: USER_SERVICE_PORT
+  value: {{ .Values.service.port | quote}}
 - name: POSTGRES_PASSWORD
   valueFrom:
     secretKeyRef:
