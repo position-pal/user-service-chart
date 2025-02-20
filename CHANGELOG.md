@@ -1,3 +1,13 @@
+## [1.6.0](https://github.com/position-pal/user-service-chart/compare/1.5.0...1.6.0) (2025-02-20)
+
+### Features
+
+* update db-configmap ([be5fc60](https://github.com/position-pal/user-service-chart/commit/be5fc604e8e91f863c80c4b2eb25558a13b6bb8f))
+
+### General maintenance
+
+* update ignore files ([faf2b83](https://github.com/position-pal/user-service-chart/commit/faf2b83a50978fc2f821e320c0c49d7442b389d8))
+
 ## [1.5.0](https://github.com/position-pal/user-service-chart/compare/1.4.0...1.5.0) (2025-02-18)
 
 ### Dependency updates
