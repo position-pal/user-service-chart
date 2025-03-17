@@ -8,7 +8,7 @@ serviceName: "user-service"
 # Base informations for the service image
 image:
   repository: positionpal/user-service
-  tag: 2.1.0@sha256:8eba1a9d870a551781deab3b5d063e7db5a05d8079b5d280b4cbcc3e67e93e00
+  tag: 2.2.0@sha256:d907025bf66b7deb865e79bf5a2f0a6640852f44c88232095d5fb59b3ade31c0
   pullPolicy: IfNotPresent
 
 jwtSecret: "abc"
