@@ -1,3 +1,18 @@
+## [1.18.0](https://github.com/position-pal/user-service-chart/compare/1.17.0...1.18.0) (2025-09-10)
+
+### Dependency updates
+
+* **api-deps:** update positionpal/user-service docker tag to v2.6.1 ([#98](https://github.com/position-pal/user-service-chart/issues/98)) ([ac4c3a1](https://github.com/position-pal/user-service-chart/commit/ac4c3a145fd9b6fe1d6b142c6177c27ff5a4157f))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.140 ([#92](https://github.com/position-pal/user-service-chart/issues/92)) ([5ada5cf](https://github.com/position-pal/user-service-chart/commit/5ada5cfe47a31b3bbaa5bcac75e5d762c010b5ea))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.141 ([#96](https://github.com/position-pal/user-service-chart/issues/96)) ([6617030](https://github.com/position-pal/user-service-chart/commit/6617030c6447d67f774e2561e9e4bb9856ecaada))
+* **deps:** update helm release postgresql to v16.7.27 ([#94](https://github.com/position-pal/user-service-chart/issues/94)) ([bc0b266](https://github.com/position-pal/user-service-chart/commit/bc0b266e0a05752701ed99154cb7bcfa982bcbcb))
+* **deps:** update node.js to 22.19 ([#95](https://github.com/position-pal/user-service-chart/issues/95)) ([cd9e652](https://github.com/position-pal/user-service-chart/commit/cd9e652824da095ea7127f14a65fb7c14f0f8bad))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v5 ([#97](https://github.com/position-pal/user-service-chart/issues/97)) ([3fa8102](https://github.com/position-pal/user-service-chart/commit/3fa8102ababa7e027a3f56aa5c3ebba0966aa98f))
+* **deps:** update azure/setup-helm action to v4.3.1 ([#93](https://github.com/position-pal/user-service-chart/issues/93)) ([abc673a](https://github.com/position-pal/user-service-chart/commit/abc673a4cee96b6a111f24ceaa3ded03ee38afe7))
+
 ## [1.17.0](https://github.com/position-pal/user-service-chart/compare/1.16.0...1.17.0) (2025-08-15)
 
 ### Dependency updates
