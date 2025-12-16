@@ -1,3 +1,9 @@
+## [1.23.0](https://github.com/position-pal/user-service-chart/compare/1.22.0...1.23.0) (2025-12-16)
+
+### Dependency updates
+
+* **api-deps:** update positionpal/user-service docker tag to v2.9.0 ([#151](https://github.com/position-pal/user-service-chart/issues/151)) ([60d6cb5](https://github.com/position-pal/user-service-chart/commit/60d6cb5467a739ba26f21e181744389383f08a2f))
+
 ## [1.22.0](https://github.com/position-pal/user-service-chart/compare/1.21.0...1.22.0) (2025-12-16)
 
 ### Dependency updates
